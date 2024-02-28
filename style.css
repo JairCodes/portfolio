@@ -209,6 +209,9 @@ section {
     height: 2rem;
 }
 
+.icon:hover {
+    cursor: default;
+}
 /* BUTTONS */
 
 .btn-container {
@@ -285,7 +288,7 @@ section {
 
 .arrow {
     position: absolute;
-    right: -5rem;
+    right: -8rem;
     bottom: 2.5rem;
 }
 
