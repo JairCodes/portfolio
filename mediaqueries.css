@@ -21,6 +21,9 @@
     #profile, .section-container {
         display: block;
     }
+    .project-img {
+        margin: 0 auto;
+    }
     .arrow {
         display: none;
     }
@@ -47,6 +50,9 @@
     #profile{
         height: 83vh;
         margin-bottom: 0;
+    }
+    .project-img {
+        margin: 0 auto;
     }
     article {
         font-size: 1rem;

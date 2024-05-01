@@ -367,6 +367,16 @@ article .icon {
     border-radius: 1rem;
     width: 90%;
     height: 90%;
+    display: block;
+    margin: 0 auto;
+}
+
+.project-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
 }
 
 .project-title {
