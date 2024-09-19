@@ -326,20 +326,20 @@ section {
     margin: auto 0;
 }
 
-/* EXPERIENCE SECTION */
+/* SKILLSET SECTION */
 
-#experience {
+#skillset {
     position: relative;
 }
 
-.experience-sub-title {
+.skillset-sub-title {
     color: rgb(85, 85, 85);
     font-weight: 600;
     font-size: 1.75rem;
     margin-bottom: 2rem;
 }
 
-.experience-detail-container {
+.skillset-detail-container {
     display: flex;
     justify-content: center;
     flex-direction: column;
