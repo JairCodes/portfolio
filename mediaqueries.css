@@ -43,6 +43,18 @@
     }
 }
 
+@media screen and (max-width: 768px) {
+    .project-container {
+        height: 250px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .project-container {
+        height: 200px;
+    }
+}
+
 @media screen and (max-width: 600px) {
     #contact, footer {
         height: 40vh;
