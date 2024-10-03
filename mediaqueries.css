@@ -107,4 +107,14 @@
     .text-container {
         text-align: justify;
     }
+    .section__text__p2-item::after {
+        content: "";
+        position: absolute;
+        margin-top: 1.8rem;
+        height: 1.5em; 
+        width: 100%;  
+        background-color: white;
+        border-left: 1.5px solid black;
+        left: 0;
+    }
 }
